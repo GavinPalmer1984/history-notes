@@ -17,4 +17,4 @@ These consist generally, of the NOBLE order of C[incinnatu]s, holders of public 
 
 A FEDERALIST
 
-[Antifederalist Paper #2](number-2/readme.md)
+[Antifederalist Paper #2](../number-2/readme.md)
