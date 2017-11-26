@@ -30,3 +30,7 @@ The large states have divided the back lands among themselves, and have given as
 But what would I do on the present occasion to remedy the existing defects of the present Confederation? There are two opinions prevailing in the world — the one, that mankind can only be governed by force; the other, that they are capable of freedom and a good government. Under a supposition that mankind can govern themselves, I would recommend that the present Confederation should be amended. Give Congress the regulation of commerce. Infuse new strength and spirit into the state governments; for, when the component parts are strong, it will give energy to the government, although it be otherwise weak….
 
 Apportion the public debts in such a manner as to throw the unpopular ones on the back lands. Call only for requisitions for the foreign interest and aid them by loans. Keep on so till the American character be marked with some certain features. We are yet too young to know what we are fit for. The continual migration of people from Europe, and the settlement of new countries on our western frontiers, are strong arguments against making new experiments now in government. When these things are removed, we can with greater prospect of success, devise changes. We ought to consider, as Montesquieu says, whether the construction of the government be suitable to the genius and disposition of the people, as well as a variety of other circumstances.
+
+[Antifederalist Paper #3](../number-3/readme.md)  
+
+[Antifederalist Paper #1](../number-1/readme.md)  
